@@ -6,3 +6,4 @@ const pessoa = {
   data: "Dia dos Professores",}
 
   console.log(`${pessoa.nome}, Feliz ${pessoa.data}, ${quinzeOut}`)
+       
